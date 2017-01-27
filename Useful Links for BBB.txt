@@ -1,0 +1,8 @@
+Useful Links for Beaglebones
+
+Setting Up GPIO:
+https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/gpio
+
+Analog Inputs and Outputs:
+https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/adc
+

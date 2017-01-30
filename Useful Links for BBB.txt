@@ -6,3 +6,8 @@ https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/gpio
 Analog Inputs and Outputs:
 https://learn.adafruit.com/setting-up-io-python-library-on-beaglebone-black/adc
 
+Pinout for BBB:
+https://graycat.io/wp-content/uploads/2013/01/beaglebone_pinout1.png
+
+
+
